@@ -27,6 +27,8 @@
     "Enum:BookType.Horror": "Horror",
     "Enum:BookType.Science": "Science",
     "Enum:BookType.ScienceFiction": "Science fiction",
-    "Enum:BookType.Poetry": "Poetry"
+    "Enum:BookType.Poetry": "Poetry",
+    "BookDeletionConfirmationMessage": "您确定要删除 {0} 这本书么?",
+    "SuccessfullyDeleted": "删除成功!"
   }
 }
